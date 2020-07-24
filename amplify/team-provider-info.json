@@ -10,6 +10,11 @@
             "StackName": "amplify-amplifytwitch-dev-185049",
             "StackId": "arn:aws:cloudformation:us-west-2:148716834237:stack/amplify-amplifytwitch-dev-185049/18835780-cd50-11ea-93ad-06184e4e65e6",
             "AmplifyAppId": "d3gyd2681vv71z"
+        },
+        "categories": {
+            "auth": {
+                "amplifytwitchc0c99208": {}
+            }
         }
     }
 }

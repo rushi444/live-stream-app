@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"amplifytwitchc0c99208": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
