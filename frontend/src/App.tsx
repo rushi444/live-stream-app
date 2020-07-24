@@ -7,7 +7,7 @@ function App() {
       <header className='App-header'>
         <div>
           <ReactPlayer
-            url='https://www.twitch.tv/myth'
+            url='https://www.twitch.tv/bjergsen'
             playing={true}
           />
         </div>
